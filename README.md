@@ -41,7 +41,7 @@
 <hr/>
 <div align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bynfh&show_icons=true&count_private=true&theme=default" alt="git-stats">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bynfh&theme=default&layout=compact&q=4" alt="lang-stats">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bynfh&theme=default" alt="lang-stats">
 </div>
 
 <hr/>
