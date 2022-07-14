@@ -38,7 +38,7 @@
       <img src="https://github.r2v.ch/codewars?user=bynfh&top_languages=true" alt="codewars-stats">
   </details>
 </div>
-<hr/> -->
+<hr/>
 <div align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bynfh&show_icons=true&count_private=true&theme=gotham" alt="git-stats">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bynfh&theme=gotham&layout=compact&q=4" alt="lang-stats">
