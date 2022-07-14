@@ -32,11 +32,10 @@
 
 <hr/>
 
-
-<!-- <div align="center">
+<div align="center">
   <details>
     <summary>💪 <strong>Stats</strong></summary>
-      <img src="https://github.r2v.ch/codewars?user=bynfh&top_languages=true" alt="codewars stats">
+      <img src="https://github.r2v.ch/codewars?user=bynfh&top_languages=true" alt="codewars-stats">
   </details>
 </div>
 <hr/> -->
